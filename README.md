@@ -1,0 +1,3 @@
+Fruit Shop
+Video Demo: https://youtu.be/atYgvTxPsYU
+Fruit Shop is a game where you begin with $15 dollars and the program randomly picks 3 fruits that you must buy. It then gives you a list of questions that makes you describe the fruit, and whichever fruit matches your description the best will be the fruit you buy. The goal of the game is to sucessfully buy all 3 needed fruits without running out of money. The program gives you the option to retry if you did not accoomplish buying your fruits on the first 3 tries. If you win, then at the end you will get a fact about each fruit you bought, along with a list of how many fruits are sweet, sour, or both. Have fun!
